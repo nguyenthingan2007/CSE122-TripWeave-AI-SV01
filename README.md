@@ -60,6 +60,7 @@ ChatGPT:
 
 6. Link Figma
 https://www.canva.com/design/DAHX6UV0jDM/fmmHsKMUFF98uf8UI88SIg/edit
+Mobile: https://canva.link/xm8rgmaiwig7d3r
 
 7. Link video demo
 https://www.youtube.com/playlist?list=PLFTgFwF6clJQ
