@@ -59,12 +59,10 @@ Gemini:
 ChatGPT:
 
 6. Link Figma
-
 https://www.canva.com/design/DAHX6UV0jDM/fmmHsKMUFF98uf8UI88SIg/edit
 
 7. Link video demo
-
 https://www.youtube.com/playlist?list=PLFTgFwF6clJQ
 
 8. Link GitHub
-
+https://github.com/nguyenthingan2007/CSE122-TripWeave-AI-SV01
