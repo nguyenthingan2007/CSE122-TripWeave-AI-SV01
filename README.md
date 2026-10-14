@@ -52,13 +52,19 @@ Visual Studio Code: Môi trường viết và chỉnh sửa mã nguồn.
 
 GitHub: Quản lý và lưu trữ mã nguồn dự án.
 
+Cline:
+
+Gemini:
+
+ChatGPT:
+
 6. Link Figma
 
 https://www.canva.com/design/DAHX6UV0jDM/fmmHsKMUFF98uf8UI88SIg/edit
 
 7. Link video demo
 
-
+https://www.youtube.com/playlist?list=PLFTgFwF6clJQ
 
 8. Link GitHub
 
